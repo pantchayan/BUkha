@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".main_page"
+    android:background="@drawable/gradient">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp"
+
+        >
+        <ImageView
+            android:layout_width="111dp"
+            android:layout_height="111dp"
+            android:src="@drawable/mess_menu"
+            android:id="@+id/mess_menu"
+            android:layout_marginRight="100dp"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mess_menu"
+            android:background="#E53B32"
+            android:text="Mess"
+            android:layout_marginLeft="10dp"
+            android:textColor="#FFFFFF"
+            android:onClick="mess_menu"/>
+        <ImageView
+            android:layout_width="111dp"
+            android:layout_height="111dp"
+            android:layout_toRightOf="@+id/mess_menu"
+            android:src="@drawable/snacks"
+            android:id="@+id/snacks"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/snacks"
+            android:layout_marginLeft="220dp"
+            android:text="Snacks"
+            android:textColor="#FFFFFF"
+            android:background="#E53B32"
+            android:onClick="snack"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp">
+        <ImageView
+            android:layout_width="111dp"
+            android:layout_height="111dp"
+            android:src="@drawable/store_red"
+            android:id="@+id/Store_img"
+            android:layout_marginBottom="10dp"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Store_img"
+            android:layout_marginLeft="10dp"
+            android:background="#E53B32"
+            android:text="Tuck Shop"
+            android:textColor="#ffffff"
+            android:id="@+id/store_btn"
+            android:onClick="store"/>
+        <ImageView
+            android:layout_width="111dp"
+            android:layout_height="111dp"
+            android:src="@drawable/heart"
+            android:layout_toRightOf="@+id/Store_img"
+            android:layout_marginLeft="100dp"
+            android:id="@+id/bmi_img"
+            android:layout_marginBottom="10dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bmi_img"
+            android:layout_marginLeft="220dp"
+            android:background="#E53B32"
+            android:text="B.M.I."
+            android:textColor="#ffffff"
+            android:onClick="bmi"/>
+
+    </RelativeLayout>
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="About Us"
+        android:textStyle="italic"
+        android:background="#c0c0c0"
+        android:onClick="about_us"/>
+</LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
