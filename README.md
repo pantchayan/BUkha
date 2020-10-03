@@ -1,7 +1,7 @@
 # BUkha
 Made an Android application for university's mess system Displays menu of mess and cafes in the campus. Helps student check B.M.I. and suggests diet to stay fit.
 
-#### Install using apk - 
+#### Install using apk - https://drive.google.com/file/d/140QQ-Bc9mCO_heOquDanP41VNF_mDSmQ/view?usp=sharing
 
 ### Existing Features
 
@@ -17,12 +17,15 @@ Made an Android application for university's mess system Displays menu of mess a
 1. Personally curated diet plans for students.
 
 ### Screens 
-<img src="https://user-images.githubusercontent.com/49815429/94974076-1476e180-052b-11eb-9654-2d1d9ceebc03.jpeg" height="480">
-<img src="https://user-images.githubusercontent.com/49815429/94974077-1476e180-052b-11eb-9353-8ddf6b886f8c.jpeg" height="480">
-<img src="https://user-images.githubusercontent.com/49815429/94974071-117bf100-052b-11eb-95aa-a1dff594237c.jpeg" height="480">
-<img src="https://user-images.githubusercontent.com/49815429/94974074-1345b480-052b-11eb-8b33-293539c0a91e.jpeg" height="480">
-<img src="https://user-images.githubusercontent.com/49815429/94974075-13de4b00-052b-11eb-94ff-76ec58cb7eb0.jpeg" height="480">
-<img src="https://user-images.githubusercontent.com/49815429/94974083-18a2ff00-052b-11eb-8d95-4deef29578e0.jpeg" height="480">
+
+<img src="https://user-images.githubusercontent.com/49815429/94985750-cdaed900-0576-11eb-96a1-2e3a84e09559.jpeg" height="480">
+<img src="https://user-images.githubusercontent.com/49815429/94985699-655ff780-0576-11eb-8eb3-7e0fc3988a5a.jpeg" height="480">
+<img src="https://user-images.githubusercontent.com/49815429/94985716-87597a00-0576-11eb-8d90-ecf9d2fc9e38.jpeg" height="480">
+<img src="https://user-images.githubusercontent.com/49815429/94985720-8a546a80-0576-11eb-8c8f-3c8775da7044.jpeg" height="480">
+<img src="https://user-images.githubusercontent.com/49815429/94985719-89bbd400-0576-11eb-893e-f16b4fe60bc7.jpeg" height="480">
+<img src="https://user-images.githubusercontent.com/49815429/94985690-5d07bc80-0576-11eb-9e18-b8001b980a51.jpeg" height="480">
+<img src="https://user-images.githubusercontent.com/49815429/94985695-5f6a1680-0576-11eb-9793-2e00ddfc83ad.jpeg" height="480">
+<img src="https://user-images.githubusercontent.com/49815429/94985697-62650700-0576-11eb-96be-393ed17946d3.jpeg" height="480">
 
 
 ### Building
