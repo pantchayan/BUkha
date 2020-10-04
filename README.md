@@ -2,6 +2,7 @@
 Made an Android application for university's mess system Displays menu of mess and cafes in the campus. Helps student check B.M.I. and suggests diet to stay fit.
 
 #### Install using apk - https://drive.google.com/file/d/140QQ-Bc9mCO_heOquDanP41VNF_mDSmQ/view?usp=sharing
+#### Credentials - CP8963 (username), 123123 (password) 
 
 ### Existing Features
 
